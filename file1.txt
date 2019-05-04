@@ -1,2 +1,2 @@
-Hello Git 1
+Hello Git 2
 
